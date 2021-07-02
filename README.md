@@ -1,4 +1,6 @@
 # Covidus
+Covidus is a project created with NuxtJS with a team of learners during Google Africa Developer Scholarship Program 2020  
+Demo Address: [https://covidus.netlify.app](https://covidus.netlify.app)
 
 ## Build Setup
 
